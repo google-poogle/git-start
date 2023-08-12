@@ -1,5 +1,7 @@
 <?
 
+// ветка создания конроллера
+
 $methods = array();
 foreach (get_declared_classes() as $class) 
 {    $r = new ReflectionClass($class);   
