@@ -1,6 +1,7 @@
 <?
 
-// ветка создания конроллера
+// ветка создания конроллера 
+// попытка #2
 
 $methods = array();
 foreach (get_declared_classes() as $class) 
